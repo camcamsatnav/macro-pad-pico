@@ -1,0 +1,3 @@
+!!!dont delete this line!!!! different buttons on different lines, lines are in order, seperate different modifier keys by " + " e.g control + a, see keys.txt for all valid keys, not case sensitive
+control + a
+shift + b
